@@ -71,4 +71,6 @@ enableEmoji = true
 # 脚注的返回链接中的文本
 footnoteReturnLinkContents = "↩"
 
-baseURL = "https://onlypiglet.github.io/bblog/"
+baseURL = "https://onlypiglet.github.io/"
+canonifyurls = false
+relativeURLs = true
