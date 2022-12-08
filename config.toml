@@ -54,7 +54,7 @@ url = "https://twitter.com/wswch19941012"
   name = "主页"
   identifier = "home"
   weight = 100
-  url = "/home.md"
+  url = "posts/home"
 
   #[[menu.main]]
   #name = "日志"
@@ -71,6 +71,5 @@ enableEmoji = true
 # 脚注的返回链接中的文本
 footnoteReturnLinkContents = "↩"
 
-baseURL = "https://onlypiglet.github.io/"
 canonifyurls = false
 relativeURLs = true
