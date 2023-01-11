@@ -48,19 +48,19 @@ title = "twitter"
 url = "https://twitter.com/wswch19941012"
 
 
-[menu]
+#[menu]
 
-  [[menu.main]]
-  name = "主页"
-  identifier = "home"
-  weight = 100
-  url = "posts/home"
+#  [[menu.main]]
+#  name = "主页"
+#  identifier = "home"
+#  weight = 100
+#  url = "./posts/home"
 
-  #[[menu.main]]
-  #name = "日志"
-  #weight = 200
-  #identifier = "posts"
-  #url = "/post/"
+#  [[menu.main]]
+#  name = "软件学习"
+#  weight = 200
+#  identifier = "soft"
+#  url = "./posts/soft"
 
 copyright = "2022-{{ YEAR }}"
 newContentEditor = ""
